@@ -1,0 +1,7 @@
+{
+  "rows_raw": 9551,
+  "rows_not_rated_removed": 2148,
+  "rows_after_not_rated_filter": 7403,
+  "rows_after_target_dropna": 7403,
+  "rows_final": 7403
+}
