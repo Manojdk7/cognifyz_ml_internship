@@ -1,0 +1,8 @@
+{
+  "rows_raw": 9551,
+  "unique_primary_cuisines_raw": 120,
+  "rare_threshold": 30,
+  "classes_kept": 27,
+  "rows_mapped_to_other": 604,
+  "final_target_classes": 28
+}

@@ -1,0 +1,1912 @@
+actual_label_code,actual_label,lr_pred_code,lr_pred_label,rf_pred_code,rf_pred_label
+21,North Indian,21,North Indian,14,Ice Cream
+2,Bakery,21,North Indian,18,Mexican
+21,North Indian,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,2,Bakery
+16,Italian,21,North Indian,16,Italian
+21,North Indian,21,North Indian,4,Biryani
+8,Continental,8,Continental,20,Mughlai
+27,Street Food,21,North Indian,19,Mithai
+21,North Indian,21,North Indian,12,Finger Food
+24,Raw Meats,21,North Indian,20,Mughlai
+7,Chinese,21,North Indian,21,North Indian
+6,Cafe,21,North Indian,9,Desserts
+11,Fast Food,21,North Indian,3,Beverages
+27,Street Food,21,North Indian,6,Cafe
+22,Other,21,North Indian,2,Bakery
+7,Chinese,21,North Indian,24,Raw Meats
+0,American,21,North Indian,4,Biryani
+6,Cafe,21,North Indian,22,Other
+21,North Indian,21,North Indian,19,Mithai
+13,Healthy Food,21,North Indian,13,Healthy Food
+20,Mughlai,21,North Indian,20,Mughlai
+27,Street Food,21,North Indian,19,Mithai
+6,Cafe,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,14,Ice Cream
+21,North Indian,21,North Indian,19,Mithai
+23,Pizza,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,20,Mughlai
+22,Other,22,Other,5,Burger
+7,Chinese,21,North Indian,10,European
+4,Biryani,21,North Indian,9,Desserts
+26,South Indian,21,North Indian,14,Ice Cream
+22,Other,22,Other,25,Seafood
+21,North Indian,21,North Indian,21,North Indian
+17,Japanese,21,North Indian,6,Cafe
+16,Italian,21,North Indian,16,Italian
+18,Mexican,22,Other,15,Indian
+21,North Indian,21,North Indian,21,North Indian
+23,Pizza,21,North Indian,16,Italian
+7,Chinese,21,North Indian,11,Fast Food
+20,Mughlai,21,North Indian,2,Bakery
+27,Street Food,21,North Indian,23,Pizza
+21,North Indian,21,North Indian,16,Italian
+11,Fast Food,21,North Indian,20,Mughlai
+7,Chinese,21,North Indian,24,Raw Meats
+14,Ice Cream,21,North Indian,27,Street Food
+21,North Indian,21,North Indian,3,Beverages
+11,Fast Food,21,North Indian,9,Desserts
+21,North Indian,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,12,Finger Food
+21,North Indian,21,North Indian,1,Asian
+2,Bakery,21,North Indian,14,Ice Cream
+3,Beverages,21,North Indian,4,Biryani
+11,Fast Food,21,North Indian,11,Fast Food
+6,Cafe,21,North Indian,4,Biryani
+6,Cafe,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,14,Ice Cream
+0,American,22,Other,0,American
+6,Cafe,21,North Indian,23,Pizza
+19,Mithai,19,Mithai,11,Fast Food
+2,Bakery,21,North Indian,19,Mithai
+0,American,22,Other,22,Other
+21,North Indian,21,North Indian,24,Raw Meats
+11,Fast Food,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,11,Fast Food
+7,Chinese,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,27,Street Food
+7,Chinese,21,North Indian,20,Mughlai
+6,Cafe,21,North Indian,3,Beverages
+21,North Indian,21,North Indian,20,Mughlai
+7,Chinese,21,North Indian,20,Mughlai
+7,Chinese,21,North Indian,12,Finger Food
+8,Continental,21,North Indian,4,Biryani
+2,Bakery,21,North Indian,14,Ice Cream
+7,Chinese,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,14,Ice Cream
+21,North Indian,21,North Indian,21,North Indian
+7,Chinese,7,Chinese,22,Other
+21,North Indian,21,North Indian,17,Japanese
+11,Fast Food,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,18,Mexican
+21,North Indian,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,7,Chinese
+8,Continental,21,North Indian,21,North Indian
+22,Other,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,19,Mithai
+21,North Indian,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,21,North Indian
+23,Pizza,21,North Indian,7,Chinese
+6,Cafe,21,North Indian,6,Cafe
+7,Chinese,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,0,American
+2,Bakery,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,12,Finger Food
+22,Other,22,Other,16,Italian
+0,American,22,Other,15,Indian
+21,North Indian,21,North Indian,16,Italian
+1,Asian,21,North Indian,6,Cafe
+7,Chinese,21,North Indian,24,Raw Meats
+8,Continental,21,North Indian,17,Japanese
+23,Pizza,21,North Indian,9,Desserts
+22,Other,11,Fast Food,22,Other
+21,North Indian,21,North Indian,6,Cafe
+23,Pizza,21,North Indian,23,Pizza
+26,South Indian,21,North Indian,23,Pizza
+21,North Indian,21,North Indian,6,Cafe
+20,Mughlai,21,North Indian,7,Chinese
+9,Desserts,21,North Indian,9,Desserts
+8,Continental,21,North Indian,21,North Indian
+10,European,21,North Indian,8,Continental
+21,North Indian,21,North Indian,8,Continental
+2,Bakery,21,North Indian,20,Mughlai
+0,American,0,American,0,American
+0,American,22,Other,15,Indian
+6,Cafe,21,North Indian,19,Mithai
+21,North Indian,21,North Indian,26,South Indian
+6,Cafe,21,North Indian,26,South Indian
+6,Cafe,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,2,Bakery
+0,American,22,Other,22,Other
+22,Other,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,6,Cafe
+8,Continental,21,North Indian,8,Continental
+2,Bakery,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,6,Cafe
+6,Cafe,21,North Indian,7,Chinese
+11,Fast Food,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,3,Beverages
+2,Bakery,21,North Indian,4,Biryani
+23,Pizza,21,North Indian,11,Fast Food
+27,Street Food,11,Fast Food,27,Street Food
+27,Street Food,21,North Indian,6,Cafe
+20,Mughlai,21,North Indian,4,Biryani
+21,North Indian,8,Continental,22,Other
+7,Chinese,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,20,Mughlai
+19,Mithai,27,Street Food,19,Mithai
+2,Bakery,21,North Indian,2,Bakery
+6,Cafe,21,North Indian,11,Fast Food
+7,Chinese,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,8,Continental
+22,Other,22,Other,22,Other
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,16,Italian
+7,Chinese,21,North Indian,2,Bakery
+2,Bakery,21,North Indian,19,Mithai
+22,Other,21,North Indian,8,Continental
+8,Continental,21,North Indian,7,Chinese
+17,Japanese,22,Other,15,Indian
+9,Desserts,9,Desserts,11,Fast Food
+21,North Indian,21,North Indian,21,North Indian
+2,Bakery,21,North Indian,9,Desserts
+21,North Indian,21,North Indian,12,Finger Food
+6,Cafe,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,4,Biryani
+7,Chinese,21,North Indian,6,Cafe
+2,Bakery,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,19,Mithai
+22,Other,22,Other,22,Other
+3,Beverages,21,North Indian,3,Beverages
+7,Chinese,21,North Indian,20,Mughlai
+26,South Indian,21,North Indian,5,Burger
+6,Cafe,19,Mithai,6,Cafe
+8,Continental,21,North Indian,10,European
+5,Burger,11,Fast Food,22,Other
+21,North Indian,21,North Indian,9,Desserts
+20,Mughlai,21,North Indian,9,Desserts
+7,Chinese,21,North Indian,13,Healthy Food
+20,Mughlai,21,North Indian,20,Mughlai
+7,Chinese,21,North Indian,7,Chinese
+2,Bakery,21,North Indian,8,Continental
+21,North Indian,21,North Indian,12,Finger Food
+13,Healthy Food,21,North Indian,13,Healthy Food
+16,Italian,22,Other,0,American
+21,North Indian,21,North Indian,8,Continental
+25,Seafood,21,North Indian,20,Mughlai
+11,Fast Food,21,North Indian,0,American
+21,North Indian,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,9,Desserts
+21,North Indian,21,North Indian,20,Mughlai
+7,Chinese,21,North Indian,16,Italian
+7,Chinese,21,North Indian,2,Bakery
+22,Other,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,6,Cafe
+2,Bakery,19,Mithai,27,Street Food
+21,North Indian,21,North Indian,23,Pizza
+6,Cafe,21,North Indian,3,Beverages
+21,North Indian,21,North Indian,9,Desserts
+7,Chinese,21,North Indian,11,Fast Food
+6,Cafe,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,2,Bakery
+26,South Indian,21,North Indian,27,Street Food
+2,Bakery,21,North Indian,26,South Indian
+7,Chinese,21,North Indian,5,Burger
+27,Street Food,21,North Indian,19,Mithai
+2,Bakery,21,North Indian,6,Cafe
+22,Other,22,Other,11,Fast Food
+21,North Indian,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,19,Mithai
+21,North Indian,21,North Indian,8,Continental
+2,Bakery,21,North Indian,19,Mithai
+5,Burger,21,North Indian,16,Italian
+4,Biryani,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,3,Beverages
+24,Raw Meats,21,North Indian,27,Street Food
+21,North Indian,11,Fast Food,2,Bakery
+22,Other,21,North Indian,23,Pizza
+11,Fast Food,21,North Indian,19,Mithai
+11,Fast Food,21,North Indian,27,Street Food
+6,Cafe,21,North Indian,5,Burger
+21,North Indian,21,North Indian,24,Raw Meats
+23,Pizza,21,North Indian,23,Pizza
+23,Pizza,21,North Indian,20,Mughlai
+19,Mithai,27,Street Food,19,Mithai
+21,North Indian,21,North Indian,26,South Indian
+11,Fast Food,21,North Indian,2,Bakery
+11,Fast Food,21,North Indian,19,Mithai
+21,North Indian,21,North Indian,7,Chinese
+14,Ice Cream,27,Street Food,27,Street Food
+2,Bakery,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,24,Raw Meats
+22,Other,21,North Indian,24,Raw Meats
+21,North Indian,21,North Indian,3,Beverages
+26,South Indian,27,Street Food,27,Street Food
+14,Ice Cream,21,North Indian,27,Street Food
+21,North Indian,21,North Indian,2,Bakery
+20,Mughlai,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,11,Fast Food
+22,Other,21,North Indian,6,Cafe
+25,Seafood,8,Continental,7,Chinese
+24,Raw Meats,21,North Indian,7,Chinese
+12,Finger Food,21,North Indian,1,Asian
+26,South Indian,21,North Indian,6,Cafe
+8,Continental,21,North Indian,16,Italian
+12,Finger Food,21,North Indian,12,Finger Food
+21,North Indian,21,North Indian,24,Raw Meats
+17,Japanese,21,North Indian,8,Continental
+7,Chinese,21,North Indian,23,Pizza
+3,Beverages,21,North Indian,7,Chinese
+11,Fast Food,21,North Indian,20,Mughlai
+17,Japanese,22,Other,0,American
+26,South Indian,21,North Indian,21,North Indian
+2,Bakery,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,6,Cafe
+27,Street Food,19,Mithai,27,Street Food
+22,Other,22,Other,18,Mexican
+6,Cafe,21,North Indian,26,South Indian
+2,Bakery,21,North Indian,7,Chinese
+27,Street Food,21,North Indian,24,Raw Meats
+21,North Indian,21,North Indian,9,Desserts
+21,North Indian,21,North Indian,6,Cafe
+2,Bakery,21,North Indian,19,Mithai
+26,South Indian,21,North Indian,24,Raw Meats
+2,Bakery,21,North Indian,13,Healthy Food
+11,Fast Food,21,North Indian,24,Raw Meats
+19,Mithai,21,North Indian,26,South Indian
+15,Indian,0,American,22,Other
+22,Other,21,North Indian,8,Continental
+7,Chinese,22,Other,17,Japanese
+21,North Indian,21,North Indian,7,Chinese
+22,Other,21,North Indian,16,Italian
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,4,Biryani
+22,Other,21,North Indian,10,European
+6,Cafe,22,Other,17,Japanese
+20,Mughlai,21,North Indian,23,Pizza
+21,North Indian,21,North Indian,23,Pizza
+26,South Indian,21,North Indian,20,Mughlai
+23,Pizza,21,North Indian,26,South Indian
+7,Chinese,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,24,Raw Meats
+6,Cafe,21,North Indian,4,Biryani
+6,Cafe,21,North Indian,6,Cafe
+14,Ice Cream,21,North Indian,11,Fast Food
+6,Cafe,21,North Indian,16,Italian
+2,Bakery,21,North Indian,27,Street Food
+21,North Indian,21,North Indian,4,Biryani
+22,Other,21,North Indian,9,Desserts
+21,North Indian,21,North Indian,0,American
+21,North Indian,21,North Indian,12,Finger Food
+22,Other,21,North Indian,16,Italian
+23,Pizza,21,North Indian,6,Cafe
+9,Desserts,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,3,Beverages
+7,Chinese,21,North Indian,21,North Indian
+22,Other,22,Other,15,Indian
+22,Other,22,Other,15,Indian
+21,North Indian,27,Street Food,11,Fast Food
+26,South Indian,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,23,Pizza
+9,Desserts,21,North Indian,9,Desserts
+23,Pizza,22,Other,1,Asian
+11,Fast Food,21,North Indian,4,Biryani
+11,Fast Food,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,20,Mughlai
+11,Fast Food,21,North Indian,4,Biryani
+26,South Indian,21,North Indian,18,Mexican
+21,North Indian,21,North Indian,5,Burger
+21,North Indian,21,North Indian,27,Street Food
+6,Cafe,21,North Indian,26,South Indian
+0,American,21,North Indian,8,Continental
+7,Chinese,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,23,Pizza
+6,Cafe,21,North Indian,6,Cafe
+3,Beverages,21,North Indian,20,Mughlai
+16,Italian,21,North Indian,16,Italian
+21,North Indian,21,North Indian,8,Continental
+7,Chinese,22,Other,22,Other
+21,North Indian,27,Street Food,27,Street Food
+8,Continental,21,North Indian,13,Healthy Food
+21,North Indian,21,North Indian,16,Italian
+6,Cafe,21,North Indian,21,North Indian
+6,Cafe,21,North Indian,9,Desserts
+0,American,22,Other,16,Italian
+16,Italian,7,Chinese,7,Chinese
+7,Chinese,6,Cafe,1,Asian
+11,Fast Food,21,North Indian,2,Bakery
+26,South Indian,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,27,Street Food
+22,Other,22,Other,25,Seafood
+1,Asian,22,Other,5,Burger
+10,European,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,16,Italian
+19,Mithai,21,North Indian,19,Mithai
+27,Street Food,19,Mithai,19,Mithai
+21,North Indian,21,North Indian,2,Bakery
+2,Bakery,21,North Indian,20,Mughlai
+0,American,22,Other,23,Pizza
+6,Cafe,22,Other,22,Other
+18,Mexican,21,North Indian,18,Mexican
+25,Seafood,21,North Indian,7,Chinese
+11,Fast Food,21,North Indian,27,Street Food
+7,Chinese,11,Fast Food,11,Fast Food
+21,North Indian,21,North Indian,23,Pizza
+21,North Indian,21,North Indian,7,Chinese
+6,Cafe,21,North Indian,6,Cafe
+11,Fast Food,19,Mithai,19,Mithai
+21,North Indian,21,North Indian,8,Continental
+22,Other,21,North Indian,24,Raw Meats
+21,North Indian,21,North Indian,20,Mughlai
+26,South Indian,21,North Indian,27,Street Food
+6,Cafe,21,North Indian,20,Mughlai
+11,Fast Food,21,North Indian,14,Ice Cream
+14,Ice Cream,21,North Indian,2,Bakery
+19,Mithai,21,North Indian,19,Mithai
+22,Other,0,American,15,Indian
+21,North Indian,21,North Indian,23,Pizza
+0,American,0,American,0,American
+18,Mexican,21,North Indian,6,Cafe
+26,South Indian,21,North Indian,4,Biryani
+22,Other,21,North Indian,22,Other
+7,Chinese,21,North Indian,7,Chinese
+11,Fast Food,21,North Indian,3,Beverages
+21,North Indian,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,8,Continental
+7,Chinese,21,North Indian,4,Biryani
+7,Chinese,21,North Indian,6,Cafe
+7,Chinese,21,North Indian,20,Mughlai
+11,Fast Food,21,North Indian,20,Mughlai
+7,Chinese,21,North Indian,2,Bakery
+7,Chinese,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,20,Mughlai
+2,Bakery,21,North Indian,22,Other
+7,Chinese,21,North Indian,7,Chinese
+9,Desserts,19,Mithai,27,Street Food
+22,Other,21,North Indian,8,Continental
+26,South Indian,21,North Indian,20,Mughlai
+6,Cafe,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,8,Continental
+19,Mithai,21,North Indian,27,Street Food
+7,Chinese,21,North Indian,23,Pizza
+22,Other,21,North Indian,12,Finger Food
+7,Chinese,21,North Indian,27,Street Food
+14,Ice Cream,21,North Indian,14,Ice Cream
+16,Italian,21,North Indian,22,Other
+21,North Indian,21,North Indian,24,Raw Meats
+6,Cafe,21,North Indian,20,Mughlai
+17,Japanese,21,North Indian,17,Japanese
+12,Finger Food,21,North Indian,12,Finger Food
+7,Chinese,21,North Indian,23,Pizza
+22,Other,21,North Indian,6,Cafe
+22,Other,21,North Indian,6,Cafe
+7,Chinese,21,North Indian,21,North Indian
+11,Fast Food,21,North Indian,19,Mithai
+17,Japanese,6,Cafe,22,Other
+21,North Indian,21,North Indian,0,American
+0,American,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,4,Biryani
+24,Raw Meats,21,North Indian,11,Fast Food
+7,Chinese,21,North Indian,5,Burger
+7,Chinese,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,8,Continental
+21,North Indian,21,North Indian,21,North Indian
+11,Fast Food,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,20,Mughlai
+22,Other,11,Fast Food,22,Other
+21,North Indian,21,North Indian,23,Pizza
+11,Fast Food,21,North Indian,0,American
+11,Fast Food,21,North Indian,8,Continental
+27,Street Food,21,North Indian,19,Mithai
+5,Burger,22,Other,22,Other
+4,Biryani,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,7,Chinese
+22,Other,21,North Indian,22,Other
+23,Pizza,21,North Indian,20,Mughlai
+4,Biryani,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,5,Burger
+21,North Indian,21,North Indian,16,Italian
+21,North Indian,21,North Indian,9,Desserts
+23,Pizza,21,North Indian,20,Mughlai
+14,Ice Cream,21,North Indian,14,Ice Cream
+21,North Indian,21,North Indian,2,Bakery
+22,Other,21,North Indian,17,Japanese
+16,Italian,21,North Indian,16,Italian
+11,Fast Food,27,Street Food,19,Mithai
+6,Cafe,21,North Indian,22,Other
+21,North Indian,21,North Indian,7,Chinese
+16,Italian,21,North Indian,13,Healthy Food
+11,Fast Food,21,North Indian,19,Mithai
+20,Mughlai,21,North Indian,7,Chinese
+22,Other,21,North Indian,8,Continental
+2,Bakery,21,North Indian,20,Mughlai
+22,Other,22,Other,6,Cafe
+21,North Indian,21,North Indian,8,Continental
+21,North Indian,21,North Indian,16,Italian
+11,Fast Food,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,21,North Indian
+6,Cafe,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,23,Pizza
+21,North Indian,21,North Indian,6,Cafe
+27,Street Food,11,Fast Food,27,Street Food
+21,North Indian,21,North Indian,27,Street Food
+11,Fast Food,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,3,Beverages
+27,Street Food,21,North Indian,14,Ice Cream
+22,Other,21,North Indian,6,Cafe
+7,Chinese,21,North Indian,20,Mughlai
+2,Bakery,21,North Indian,24,Raw Meats
+21,North Indian,21,North Indian,11,Fast Food
+10,European,21,North Indian,10,European
+27,Street Food,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,27,Street Food
+21,North Indian,21,North Indian,3,Beverages
+27,Street Food,19,Mithai,19,Mithai
+21,North Indian,21,North Indian,27,Street Food
+22,Other,21,North Indian,1,Asian
+21,North Indian,21,North Indian,24,Raw Meats
+2,Bakery,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,7,Chinese
+21,North Indian,8,Continental,20,Mughlai
+11,Fast Food,21,North Indian,0,American
+22,Other,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,7,Chinese
+7,Chinese,21,North Indian,16,Italian
+8,Continental,21,North Indian,3,Beverages
+26,South Indian,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,7,Chinese
+7,Chinese,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,6,Cafe
+7,Chinese,21,North Indian,19,Mithai
+6,Cafe,21,North Indian,20,Mughlai
+23,Pizza,21,North Indian,19,Mithai
+7,Chinese,21,North Indian,4,Biryani
+22,Other,21,North Indian,23,Pizza
+21,North Indian,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,11,Fast Food
+14,Ice Cream,21,North Indian,3,Beverages
+21,North Indian,21,North Indian,5,Burger
+21,North Indian,21,North Indian,14,Ice Cream
+21,North Indian,21,North Indian,27,Street Food
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,20,Mughlai
+22,Other,22,Other,22,Other
+6,Cafe,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,6,Cafe
+6,Cafe,21,North Indian,19,Mithai
+6,Cafe,21,North Indian,20,Mughlai
+15,Indian,15,Indian,15,Indian
+21,North Indian,21,North Indian,12,Finger Food
+21,North Indian,21,North Indian,20,Mughlai
+13,Healthy Food,21,North Indian,7,Chinese
+22,Other,22,Other,16,Italian
+19,Mithai,21,North Indian,9,Desserts
+22,Other,22,Other,0,American
+3,Beverages,21,North Indian,24,Raw Meats
+6,Cafe,21,North Indian,23,Pizza
+22,Other,22,Other,23,Pizza
+21,North Indian,21,North Indian,14,Ice Cream
+6,Cafe,22,Other,22,Other
+21,North Indian,21,North Indian,16,Italian
+6,Cafe,21,North Indian,14,Ice Cream
+7,Chinese,21,North Indian,20,Mughlai
+17,Japanese,22,Other,15,Indian
+21,North Indian,21,North Indian,19,Mithai
+21,North Indian,21,North Indian,27,Street Food
+21,North Indian,21,North Indian,5,Burger
+11,Fast Food,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,9,Desserts
+11,Fast Food,21,North Indian,16,Italian
+9,Desserts,21,North Indian,23,Pizza
+12,Finger Food,21,North Indian,12,Finger Food
+21,North Indian,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,20,Mughlai
+6,Cafe,21,North Indian,6,Cafe
+16,Italian,21,North Indian,16,Italian
+6,Cafe,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,6,Cafe
+7,Chinese,21,North Indian,23,Pizza
+15,Indian,22,Other,0,American
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,17,Japanese
+21,North Indian,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,8,Continental
+0,American,21,North Indian,0,American
+6,Cafe,21,North Indian,19,Mithai
+21,North Indian,21,North Indian,22,Other
+7,Chinese,21,North Indian,20,Mughlai
+2,Bakery,21,North Indian,24,Raw Meats
+12,Finger Food,21,North Indian,12,Finger Food
+21,North Indian,21,North Indian,9,Desserts
+21,North Indian,21,North Indian,21,North Indian
+6,Cafe,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,17,Japanese
+21,North Indian,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,5,Burger
+21,North Indian,21,North Indian,21,North Indian
+27,Street Food,21,North Indian,20,Mughlai
+11,Fast Food,21,North Indian,24,Raw Meats
+21,North Indian,21,North Indian,21,North Indian
+11,Fast Food,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,5,Burger
+11,Fast Food,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,25,Seafood
+0,American,22,Other,16,Italian
+21,North Indian,21,North Indian,26,South Indian
+2,Bakery,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,2,Bakery
+7,Chinese,21,North Indian,20,Mughlai
+11,Fast Food,21,North Indian,5,Burger
+21,North Indian,21,North Indian,6,Cafe
+0,American,22,Other,17,Japanese
+26,South Indian,21,North Indian,7,Chinese
+6,Cafe,21,North Indian,6,Cafe
+6,Cafe,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,19,Mithai
+7,Chinese,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,7,Chinese
+15,Indian,22,Other,15,Indian
+6,Cafe,21,North Indian,10,European
+6,Cafe,22,Other,6,Cafe
+21,North Indian,21,North Indian,22,Other
+19,Mithai,19,Mithai,27,Street Food
+20,Mughlai,21,North Indian,3,Beverages
+21,North Indian,21,North Indian,6,Cafe
+19,Mithai,27,Street Food,2,Bakery
+13,Healthy Food,21,North Indian,7,Chinese
+7,Chinese,21,North Indian,6,Cafe
+22,Other,22,Other,0,American
+21,North Indian,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,4,Biryani
+27,Street Food,21,North Indian,11,Fast Food
+11,Fast Food,21,North Indian,27,Street Food
+22,Other,22,Other,22,Other
+11,Fast Food,0,American,15,Indian
+3,Beverages,21,North Indian,24,Raw Meats
+21,North Indian,21,North Indian,8,Continental
+0,American,21,North Indian,0,American
+21,North Indian,21,North Indian,9,Desserts
+16,Italian,21,North Indian,10,European
+19,Mithai,21,North Indian,27,Street Food
+21,North Indian,21,North Indian,18,Mexican
+7,Chinese,21,North Indian,24,Raw Meats
+5,Burger,21,North Indian,16,Italian
+2,Bakery,21,North Indian,14,Ice Cream
+16,Italian,22,Other,16,Italian
+6,Cafe,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,8,Continental
+21,North Indian,21,North Indian,24,Raw Meats
+21,North Indian,21,North Indian,26,South Indian
+27,Street Food,21,North Indian,14,Ice Cream
+21,North Indian,21,North Indian,0,American
+21,North Indian,21,North Indian,8,Continental
+2,Bakery,21,North Indian,2,Bakery
+16,Italian,21,North Indian,16,Italian
+1,Asian,22,Other,22,Other
+21,North Indian,21,North Indian,8,Continental
+11,Fast Food,21,North Indian,26,South Indian
+2,Bakery,21,North Indian,2,Bakery
+7,Chinese,21,North Indian,26,South Indian
+11,Fast Food,21,North Indian,0,American
+0,American,22,Other,0,American
+25,Seafood,22,Other,25,Seafood
+21,North Indian,21,North Indian,23,Pizza
+22,Other,22,Other,0,American
+6,Cafe,21,North Indian,1,Asian
+7,Chinese,21,North Indian,8,Continental
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,24,Raw Meats
+0,American,22,Other,0,American
+22,Other,21,North Indian,24,Raw Meats
+16,Italian,21,North Indian,8,Continental
+6,Cafe,21,North Indian,6,Cafe
+19,Mithai,21,North Indian,21,North Indian
+0,American,22,Other,18,Mexican
+5,Burger,21,North Indian,2,Bakery
+22,Other,22,Other,16,Italian
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,4,Biryani
+22,Other,22,Other,22,Other
+22,Other,21,North Indian,6,Cafe
+0,American,21,North Indian,1,Asian
+2,Bakery,21,North Indian,21,North Indian
+22,Other,21,North Indian,8,Continental
+9,Desserts,21,North Indian,26,South Indian
+9,Desserts,21,North Indian,6,Cafe
+26,South Indian,21,North Indian,7,Chinese
+7,Chinese,21,North Indian,3,Beverages
+7,Chinese,21,North Indian,7,Chinese
+27,Street Food,21,North Indian,11,Fast Food
+7,Chinese,21,North Indian,3,Beverages
+21,North Indian,21,North Indian,4,Biryani
+19,Mithai,21,North Indian,4,Biryani
+11,Fast Food,21,North Indian,18,Mexican
+2,Bakery,21,North Indian,7,Chinese
+2,Bakery,21,North Indian,7,Chinese
+23,Pizza,22,Other,16,Italian
+12,Finger Food,21,North Indian,10,European
+7,Chinese,21,North Indian,7,Chinese
+7,Chinese,21,North Indian,8,Continental
+21,North Indian,21,North Indian,21,North Indian
+4,Biryani,21,North Indian,8,Continental
+21,North Indian,21,North Indian,19,Mithai
+21,North Indian,21,North Indian,24,Raw Meats
+22,Other,22,Other,22,Other
+2,Bakery,21,North Indian,23,Pizza
+4,Biryani,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,9,Desserts
+21,North Indian,21,North Indian,12,Finger Food
+2,Bakery,21,North Indian,7,Chinese
+2,Bakery,21,North Indian,8,Continental
+11,Fast Food,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,16,Italian
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,3,Beverages
+8,Continental,21,North Indian,16,Italian
+21,North Indian,21,North Indian,7,Chinese
+9,Desserts,19,Mithai,19,Mithai
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,3,Beverages
+2,Bakery,11,Fast Food,2,Bakery
+21,North Indian,21,North Indian,16,Italian
+14,Ice Cream,11,Fast Food,14,Ice Cream
+2,Bakery,11,Fast Food,2,Bakery
+22,Other,21,North Indian,0,American
+16,Italian,21,North Indian,8,Continental
+6,Cafe,21,North Indian,6,Cafe
+24,Raw Meats,21,North Indian,24,Raw Meats
+11,Fast Food,21,North Indian,9,Desserts
+7,Chinese,22,Other,16,Italian
+6,Cafe,21,North Indian,23,Pizza
+21,North Indian,21,North Indian,14,Ice Cream
+21,North Indian,21,North Indian,20,Mughlai
+21,North Indian,27,Street Food,27,Street Food
+3,Beverages,21,North Indian,6,Cafe
+0,American,21,North Indian,23,Pizza
+9,Desserts,11,Fast Food,9,Desserts
+11,Fast Food,21,North Indian,26,South Indian
+16,Italian,21,North Indian,16,Italian
+7,Chinese,21,North Indian,7,Chinese
+25,Seafood,22,Other,22,Other
+21,North Indian,21,North Indian,7,Chinese
+7,Chinese,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,8,Continental
+6,Cafe,21,North Indian,6,Cafe
+8,Continental,21,North Indian,0,American
+21,North Indian,21,North Indian,6,Cafe
+20,Mughlai,21,North Indian,20,Mughlai
+2,Bakery,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,2,Bakery
+2,Bakery,21,North Indian,21,North Indian
+16,Italian,22,Other,1,Asian
+11,Fast Food,21,North Indian,20,Mughlai
+9,Desserts,21,North Indian,26,South Indian
+22,Other,22,Other,16,Italian
+16,Italian,22,Other,22,Other
+11,Fast Food,21,North Indian,3,Beverages
+16,Italian,21,North Indian,16,Italian
+9,Desserts,21,North Indian,26,South Indian
+8,Continental,21,North Indian,0,American
+22,Other,22,Other,11,Fast Food
+21,North Indian,21,North Indian,16,Italian
+2,Bakery,21,North Indian,3,Beverages
+2,Bakery,21,North Indian,18,Mexican
+6,Cafe,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,16,Italian
+23,Pizza,21,North Indian,18,Mexican
+21,North Indian,21,North Indian,13,Healthy Food
+22,Other,22,Other,22,Other
+21,North Indian,21,North Indian,16,Italian
+11,Fast Food,21,North Indian,8,Continental
+21,North Indian,21,North Indian,20,Mughlai
+16,Italian,8,Continental,22,Other
+2,Bakery,21,North Indian,9,Desserts
+6,Cafe,21,North Indian,6,Cafe
+16,Italian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,13,Healthy Food
+22,Other,21,North Indian,11,Fast Food
+7,Chinese,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,12,Finger Food
+21,North Indian,21,North Indian,4,Biryani
+7,Chinese,21,North Indian,9,Desserts
+21,North Indian,21,North Indian,26,South Indian
+7,Chinese,21,North Indian,4,Biryani
+19,Mithai,19,Mithai,14,Ice Cream
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,17,Japanese
+23,Pizza,21,North Indian,23,Pizza
+2,Bakery,21,North Indian,14,Ice Cream
+2,Bakery,21,North Indian,19,Mithai
+21,North Indian,21,North Indian,4,Biryani
+13,Healthy Food,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,7,Chinese
+7,Chinese,21,North Indian,16,Italian
+4,Biryani,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,21,North Indian
+7,Chinese,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,8,Continental
+21,North Indian,21,North Indian,21,North Indian
+7,Chinese,21,North Indian,8,Continental
+21,North Indian,21,North Indian,19,Mithai
+21,North Indian,21,North Indian,16,Italian
+6,Cafe,21,North Indian,2,Bakery
+2,Bakery,19,Mithai,9,Desserts
+14,Ice Cream,21,North Indian,20,Mughlai
+7,Chinese,21,North Indian,22,Other
+14,Ice Cream,21,North Indian,27,Street Food
+20,Mughlai,21,North Indian,20,Mughlai
+7,Chinese,21,North Indian,11,Fast Food
+8,Continental,21,North Indian,16,Italian
+21,North Indian,21,North Indian,23,Pizza
+23,Pizza,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,20,Mughlai
+19,Mithai,21,North Indian,20,Mughlai
+16,Italian,21,North Indian,14,Ice Cream
+21,North Indian,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,0,American
+8,Continental,21,North Indian,21,North Indian
+4,Biryani,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,12,Finger Food
+27,Street Food,21,North Indian,27,Street Food
+27,Street Food,21,North Indian,19,Mithai
+14,Ice Cream,21,North Indian,14,Ice Cream
+24,Raw Meats,21,North Indian,20,Mughlai
+16,Italian,22,Other,0,American
+7,Chinese,21,North Indian,20,Mughlai
+17,Japanese,22,Other,22,Other
+21,North Indian,21,North Indian,11,Fast Food
+24,Raw Meats,21,North Indian,27,Street Food
+14,Ice Cream,21,North Indian,11,Fast Food
+7,Chinese,21,North Indian,10,European
+4,Biryani,21,North Indian,20,Mughlai
+5,Burger,22,Other,18,Mexican
+21,North Indian,21,North Indian,7,Chinese
+27,Street Food,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,21,North Indian
+1,Asian,21,North Indian,1,Asian
+24,Raw Meats,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,21,North Indian
+11,Fast Food,21,North Indian,26,South Indian
+11,Fast Food,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,16,Italian
+9,Desserts,22,Other,17,Japanese
+23,Pizza,21,North Indian,22,Other
+22,Other,21,North Indian,16,Italian
+21,North Indian,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,5,Burger
+25,Seafood,0,American,0,American
+14,Ice Cream,21,North Indian,2,Bakery
+22,Other,22,Other,22,Other
+2,Bakery,21,North Indian,19,Mithai
+11,Fast Food,21,North Indian,9,Desserts
+21,North Indian,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,9,Desserts
+21,North Indian,21,North Indian,4,Biryani
+5,Burger,22,Other,0,American
+6,Cafe,21,North Indian,6,Cafe
+16,Italian,21,North Indian,8,Continental
+21,North Indian,11,Fast Food,19,Mithai
+14,Ice Cream,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,11,Fast Food
+0,American,21,North Indian,8,Continental
+21,North Indian,21,North Indian,27,Street Food
+21,North Indian,21,North Indian,21,North Indian
+11,Fast Food,27,Street Food,27,Street Food
+26,South Indian,21,North Indian,19,Mithai
+7,Chinese,21,North Indian,24,Raw Meats
+21,North Indian,21,North Indian,6,Cafe
+27,Street Food,21,North Indian,6,Cafe
+7,Chinese,21,North Indian,0,American
+5,Burger,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,4,Biryani
+20,Mughlai,21,North Indian,20,Mughlai
+16,Italian,21,North Indian,7,Chinese
+2,Bakery,21,North Indian,6,Cafe
+26,South Indian,21,North Indian,11,Fast Food
+22,Other,22,Other,22,Other
+11,Fast Food,21,North Indian,19,Mithai
+6,Cafe,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,6,Cafe
+7,Chinese,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,4,Biryani
+19,Mithai,19,Mithai,27,Street Food
+21,North Indian,21,North Indian,23,Pizza
+16,Italian,21,North Indian,23,Pizza
+26,South Indian,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,23,Pizza
+21,North Indian,21,North Indian,11,Fast Food
+16,Italian,21,North Indian,20,Mughlai
+7,Chinese,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,3,Beverages
+26,South Indian,21,North Indian,14,Ice Cream
+22,Other,21,North Indian,13,Healthy Food
+5,Burger,21,North Indian,5,Burger
+0,American,21,North Indian,26,South Indian
+11,Fast Food,21,North Indian,14,Ice Cream
+21,North Indian,21,North Indian,8,Continental
+20,Mughlai,21,North Indian,8,Continental
+24,Raw Meats,21,North Indian,27,Street Food
+21,North Indian,21,North Indian,23,Pizza
+21,North Indian,21,North Indian,20,Mughlai
+2,Bakery,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,4,Biryani
+19,Mithai,21,North Indian,27,Street Food
+6,Cafe,21,North Indian,6,Cafe
+7,Chinese,21,North Indian,4,Biryani
+22,Other,21,North Indian,20,Mughlai
+7,Chinese,21,North Indian,4,Biryani
+20,Mughlai,19,Mithai,19,Mithai
+6,Cafe,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,14,Ice Cream
+21,North Indian,21,North Indian,24,Raw Meats
+13,Healthy Food,19,Mithai,19,Mithai
+21,North Indian,21,North Indian,7,Chinese
+2,Bakery,21,North Indian,9,Desserts
+26,South Indian,21,North Indian,3,Beverages
+11,Fast Food,21,North Indian,24,Raw Meats
+22,Other,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,8,Continental
+20,Mughlai,21,North Indian,8,Continental
+7,Chinese,22,Other,1,Asian
+21,North Indian,21,North Indian,0,American
+2,Bakery,19,Mithai,27,Street Food
+21,North Indian,21,North Indian,19,Mithai
+20,Mughlai,21,North Indian,20,Mughlai
+7,Chinese,21,North Indian,20,Mughlai
+7,Chinese,21,North Indian,8,Continental
+21,North Indian,21,North Indian,16,Italian
+21,North Indian,21,North Indian,1,Asian
+21,North Indian,21,North Indian,4,Biryani
+2,Bakery,21,North Indian,16,Italian
+26,South Indian,21,North Indian,20,Mughlai
+7,Chinese,21,North Indian,2,Bakery
+0,American,22,Other,22,Other
+2,Bakery,21,North Indian,14,Ice Cream
+23,Pizza,21,North Indian,23,Pizza
+21,North Indian,21,North Indian,26,South Indian
+19,Mithai,21,North Indian,19,Mithai
+0,American,22,Other,22,Other
+24,Raw Meats,21,North Indian,23,Pizza
+22,Other,22,Other,0,American
+2,Bakery,21,North Indian,18,Mexican
+21,North Indian,21,North Indian,24,Raw Meats
+21,North Indian,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,20,Mughlai
+26,South Indian,21,North Indian,9,Desserts
+21,North Indian,21,North Indian,0,American
+21,North Indian,21,North Indian,3,Beverages
+21,North Indian,21,North Indian,24,Raw Meats
+21,North Indian,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,21,North Indian
+7,Chinese,21,North Indian,20,Mughlai
+6,Cafe,22,Other,16,Italian
+11,Fast Food,21,North Indian,24,Raw Meats
+21,North Indian,21,North Indian,21,North Indian
+8,Continental,22,Other,0,American
+2,Bakery,21,North Indian,2,Bakery
+2,Bakery,21,North Indian,0,American
+21,North Indian,21,North Indian,6,Cafe
+26,South Indian,21,North Indian,24,Raw Meats
+16,Italian,8,Continental,12,Finger Food
+2,Bakery,21,North Indian,9,Desserts
+7,Chinese,21,North Indian,20,Mughlai
+7,Chinese,21,North Indian,6,Cafe
+4,Biryani,21,North Indian,26,South Indian
+1,Asian,21,North Indian,1,Asian
+21,North Indian,21,North Indian,8,Continental
+3,Beverages,21,North Indian,27,Street Food
+24,Raw Meats,21,North Indian,20,Mughlai
+22,Other,6,Cafe,22,Other
+8,Continental,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,26,South Indian
+6,Cafe,22,Other,0,American
+26,South Indian,21,North Indian,19,Mithai
+16,Italian,6,Cafe,9,Desserts
+11,Fast Food,21,North Indian,21,North Indian
+0,American,22,Other,23,Pizza
+22,Other,22,Other,16,Italian
+21,North Indian,21,North Indian,24,Raw Meats
+18,Mexican,22,Other,0,American
+16,Italian,21,North Indian,5,Burger
+7,Chinese,21,North Indian,24,Raw Meats
+8,Continental,21,North Indian,4,Biryani
+2,Bakery,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,0,American
+7,Chinese,21,North Indian,19,Mithai
+7,Chinese,21,North Indian,3,Beverages
+21,North Indian,21,North Indian,21,North Indian
+25,Seafood,21,North Indian,8,Continental
+7,Chinese,21,North Indian,16,Italian
+21,North Indian,21,North Indian,8,Continental
+1,Asian,22,Other,18,Mexican
+8,Continental,21,North Indian,6,Cafe
+24,Raw Meats,21,North Indian,26,South Indian
+19,Mithai,21,North Indian,9,Desserts
+14,Ice Cream,21,North Indian,20,Mughlai
+2,Bakery,21,North Indian,27,Street Food
+21,North Indian,21,North Indian,23,Pizza
+21,North Indian,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,0,American
+21,North Indian,21,North Indian,20,Mughlai
+2,Bakery,21,North Indian,5,Burger
+27,Street Food,21,North Indian,9,Desserts
+21,North Indian,21,North Indian,26,South Indian
+22,Other,21,North Indian,8,Continental
+21,North Indian,21,North Indian,21,North Indian
+22,Other,21,North Indian,8,Continental
+0,American,22,Other,22,Other
+16,Italian,21,North Indian,10,European
+22,Other,21,North Indian,2,Bakery
+20,Mughlai,21,North Indian,6,Cafe
+8,Continental,21,North Indian,9,Desserts
+14,Ice Cream,21,North Indian,26,South Indian
+0,American,21,North Indian,0,American
+0,American,22,Other,0,American
+21,North Indian,21,North Indian,23,Pizza
+21,North Indian,21,North Indian,7,Chinese
+0,American,21,North Indian,0,American
+15,Indian,22,Other,25,Seafood
+2,Bakery,21,North Indian,18,Mexican
+7,Chinese,19,Mithai,27,Street Food
+19,Mithai,27,Street Food,27,Street Food
+14,Ice Cream,21,North Indian,14,Ice Cream
+21,North Indian,21,North Indian,2,Bakery
+24,Raw Meats,21,North Indian,7,Chinese
+11,Fast Food,21,North Indian,14,Ice Cream
+21,North Indian,21,North Indian,27,Street Food
+9,Desserts,21,North Indian,24,Raw Meats
+11,Fast Food,21,North Indian,20,Mughlai
+1,Asian,22,Other,1,Asian
+21,North Indian,21,North Indian,8,Continental
+7,Chinese,21,North Indian,13,Healthy Food
+6,Cafe,21,North Indian,8,Continental
+14,Ice Cream,21,North Indian,14,Ice Cream
+3,Beverages,21,North Indian,6,Cafe
+7,Chinese,21,North Indian,17,Japanese
+7,Chinese,21,North Indian,6,Cafe
+11,Fast Food,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,11,Fast Food
+2,Bakery,21,North Indian,20,Mughlai
+26,South Indian,21,North Indian,4,Biryani
+16,Italian,21,North Indian,17,Japanese
+22,Other,21,North Indian,16,Italian
+20,Mughlai,21,North Indian,20,Mughlai
+11,Fast Food,27,Street Food,27,Street Food
+6,Cafe,21,North Indian,6,Cafe
+9,Desserts,11,Fast Food,27,Street Food
+23,Pizza,21,North Indian,0,American
+21,North Indian,21,North Indian,6,Cafe
+14,Ice Cream,21,North Indian,4,Biryani
+7,Chinese,21,North Indian,11,Fast Food
+24,Raw Meats,21,North Indian,24,Raw Meats
+14,Ice Cream,21,North Indian,9,Desserts
+14,Ice Cream,21,North Indian,3,Beverages
+11,Fast Food,22,Other,14,Ice Cream
+2,Bakery,21,North Indian,6,Cafe
+22,Other,21,North Indian,26,South Indian
+20,Mughlai,21,North Indian,2,Bakery
+11,Fast Food,21,North Indian,0,American
+6,Cafe,21,North Indian,18,Mexican
+26,South Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,4,Biryani
+7,Chinese,21,North Indian,23,Pizza
+27,Street Food,19,Mithai,27,Street Food
+21,North Indian,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,20,Mughlai
+6,Cafe,21,North Indian,6,Cafe
+22,Other,6,Cafe,22,Other
+21,North Indian,21,North Indian,3,Beverages
+5,Burger,21,North Indian,2,Bakery
+23,Pizza,21,North Indian,23,Pizza
+10,European,22,Other,22,Other
+11,Fast Food,21,North Indian,0,American
+9,Desserts,21,North Indian,14,Ice Cream
+11,Fast Food,21,North Indian,3,Beverages
+7,Chinese,21,North Indian,0,American
+6,Cafe,21,North Indian,6,Cafe
+23,Pizza,21,North Indian,8,Continental
+7,Chinese,21,North Indian,27,Street Food
+21,North Indian,21,North Indian,8,Continental
+14,Ice Cream,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,21,North Indian
+11,Fast Food,21,North Indian,23,Pizza
+0,American,21,North Indian,4,Biryani
+7,Chinese,21,North Indian,2,Bakery
+27,Street Food,27,Street Food,19,Mithai
+2,Bakery,21,North Indian,18,Mexican
+23,Pizza,21,North Indian,23,Pizza
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,21,North Indian
+7,Chinese,21,North Indian,8,Continental
+4,Biryani,21,North Indian,22,Other
+6,Cafe,21,North Indian,7,Chinese
+7,Chinese,21,North Indian,26,South Indian
+11,Fast Food,21,North Indian,16,Italian
+2,Bakery,21,North Indian,11,Fast Food
+0,American,21,North Indian,6,Cafe
+7,Chinese,21,North Indian,2,Bakery
+5,Burger,21,North Indian,4,Biryani
+23,Pizza,21,North Indian,4,Biryani
+6,Cafe,21,North Indian,9,Desserts
+27,Street Food,21,North Indian,4,Biryani
+9,Desserts,21,North Indian,14,Ice Cream
+21,North Indian,21,North Indian,27,Street Food
+8,Continental,21,North Indian,7,Chinese
+7,Chinese,21,North Indian,20,Mughlai
+23,Pizza,21,North Indian,21,North Indian
+18,Mexican,21,North Indian,6,Cafe
+16,Italian,21,North Indian,8,Continental
+22,Other,21,North Indian,11,Fast Food
+24,Raw Meats,21,North Indian,2,Bakery
+8,Continental,21,North Indian,25,Seafood
+2,Bakery,21,North Indian,19,Mithai
+6,Cafe,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,8,Continental
+5,Burger,21,North Indian,14,Ice Cream
+21,North Indian,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,16,Italian
+21,North Indian,21,North Indian,0,American
+26,South Indian,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,23,Pizza
+22,Other,21,North Indian,7,Chinese
+2,Bakery,11,Fast Food,2,Bakery
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,14,Ice Cream
+21,North Indian,21,North Indian,11,Fast Food
+12,Finger Food,21,North Indian,12,Finger Food
+21,North Indian,21,North Indian,27,Street Food
+2,Bakery,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,21,North Indian
+3,Beverages,21,North Indian,14,Ice Cream
+14,Ice Cream,21,North Indian,7,Chinese
+1,Asian,21,North Indian,6,Cafe
+8,Continental,21,North Indian,2,Bakery
+16,Italian,21,North Indian,16,Italian
+10,European,21,North Indian,8,Continental
+9,Desserts,21,North Indian,27,Street Food
+19,Mithai,21,North Indian,14,Ice Cream
+27,Street Food,27,Street Food,14,Ice Cream
+6,Cafe,21,North Indian,6,Cafe
+11,Fast Food,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,9,Desserts
+20,Mughlai,21,North Indian,19,Mithai
+8,Continental,7,Chinese,12,Finger Food
+21,North Indian,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,4,Biryani
+20,Mughlai,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,21,North Indian
+27,Street Food,21,North Indian,9,Desserts
+26,South Indian,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,7,Chinese
+22,Other,11,Fast Food,14,Ice Cream
+8,Continental,21,North Indian,8,Continental
+6,Cafe,27,Street Food,22,Other
+21,North Indian,21,North Indian,16,Italian
+27,Street Food,11,Fast Food,2,Bakery
+20,Mughlai,21,North Indian,6,Cafe
+26,South Indian,21,North Indian,21,North Indian
+16,Italian,22,Other,1,Asian
+23,Pizza,21,North Indian,2,Bakery
+8,Continental,8,Continental,10,European
+9,Desserts,21,North Indian,2,Bakery
+0,American,22,Other,0,American
+2,Bakery,21,North Indian,11,Fast Food
+2,Bakery,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,2,Bakery
+4,Biryani,21,North Indian,14,Ice Cream
+4,Biryani,21,North Indian,22,Other
+11,Fast Food,21,North Indian,3,Beverages
+2,Bakery,21,North Indian,20,Mughlai
+9,Desserts,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,20,Mughlai
+7,Chinese,21,North Indian,3,Beverages
+21,North Indian,21,North Indian,8,Continental
+22,Other,22,Other,15,Indian
+21,North Indian,21,North Indian,4,Biryani
+11,Fast Food,21,North Indian,27,Street Food
+7,Chinese,21,North Indian,6,Cafe
+20,Mughlai,21,North Indian,4,Biryani
+11,Fast Food,22,Other,1,Asian
+21,North Indian,21,North Indian,6,Cafe
+10,European,22,Other,25,Seafood
+14,Ice Cream,21,North Indian,8,Continental
+8,Continental,21,North Indian,8,Continental
+14,Ice Cream,21,North Indian,9,Desserts
+23,Pizza,21,North Indian,23,Pizza
+26,South Indian,21,North Indian,9,Desserts
+21,North Indian,21,North Indian,7,Chinese
+6,Cafe,21,North Indian,8,Continental
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,13,Healthy Food
+21,North Indian,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,20,Mughlai
+6,Cafe,21,North Indian,5,Burger
+22,Other,22,Other,22,Other
+21,North Indian,21,North Indian,3,Beverages
+11,Fast Food,21,North Indian,21,North Indian
+11,Fast Food,21,North Indian,2,Bakery
+23,Pizza,21,North Indian,23,Pizza
+5,Burger,21,North Indian,11,Fast Food
+27,Street Food,21,North Indian,2,Bakery
+7,Chinese,21,North Indian,8,Continental
+7,Chinese,21,North Indian,7,Chinese
+25,Seafood,21,North Indian,20,Mughlai
+2,Bakery,21,North Indian,23,Pizza
+0,American,21,North Indian,0,American
+21,North Indian,21,North Indian,20,Mughlai
+26,South Indian,21,North Indian,26,South Indian
+26,South Indian,21,North Indian,19,Mithai
+21,North Indian,21,North Indian,19,Mithai
+26,South Indian,21,North Indian,24,Raw Meats
+22,Other,22,Other,1,Asian
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,23,Pizza
+2,Bakery,21,North Indian,6,Cafe
+23,Pizza,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,2,Bakery
+22,Other,9,Desserts,22,Other
+2,Bakery,21,North Indian,9,Desserts
+14,Ice Cream,27,Street Food,22,Other
+22,Other,22,Other,0,American
+21,North Indian,21,North Indian,6,Cafe
+2,Bakery,21,North Indian,27,Street Food
+19,Mithai,21,North Indian,24,Raw Meats
+21,North Indian,21,North Indian,8,Continental
+11,Fast Food,21,North Indian,2,Bakery
+6,Cafe,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,6,Cafe
+6,Cafe,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,16,Italian
+21,North Indian,21,North Indian,8,Continental
+21,North Indian,21,North Indian,9,Desserts
+17,Japanese,7,Chinese,17,Japanese
+21,North Indian,21,North Indian,20,Mughlai
+10,European,21,North Indian,10,European
+11,Fast Food,21,North Indian,20,Mughlai
+22,Other,22,Other,16,Italian
+6,Cafe,21,North Indian,6,Cafe
+9,Desserts,11,Fast Food,27,Street Food
+4,Biryani,21,North Indian,4,Biryani
+17,Japanese,21,North Indian,20,Mughlai
+19,Mithai,19,Mithai,19,Mithai
+19,Mithai,21,North Indian,7,Chinese
+19,Mithai,21,North Indian,9,Desserts
+16,Italian,21,North Indian,7,Chinese
+7,Chinese,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,20,Mughlai
+5,Burger,21,North Indian,5,Burger
+11,Fast Food,21,North Indian,22,Other
+19,Mithai,21,North Indian,27,Street Food
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,19,Mithai,14,Ice Cream
+26,South Indian,21,North Indian,6,Cafe
+19,Mithai,21,North Indian,2,Bakery
+2,Bakery,21,North Indian,5,Burger
+23,Pizza,21,North Indian,23,Pizza
+19,Mithai,21,North Indian,26,South Indian
+6,Cafe,22,Other,12,Finger Food
+7,Chinese,21,North Indian,7,Chinese
+6,Cafe,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,16,Italian
+11,Fast Food,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,13,Healthy Food
+21,North Indian,21,North Indian,23,Pizza
+5,Burger,21,North Indian,20,Mughlai
+27,Street Food,21,North Indian,3,Beverages
+1,Asian,22,Other,16,Italian
+21,North Indian,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,24,Raw Meats
+17,Japanese,22,Other,9,Desserts
+21,North Indian,21,North Indian,6,Cafe
+22,Other,21,North Indian,8,Continental
+21,North Indian,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,16,Italian
+26,South Indian,21,North Indian,26,South Indian
+7,Chinese,22,Other,0,American
+3,Beverages,21,North Indian,3,Beverages
+26,South Indian,21,North Indian,11,Fast Food
+17,Japanese,22,Other,0,American
+21,North Indian,21,North Indian,20,Mughlai
+8,Continental,21,North Indian,12,Finger Food
+8,Continental,21,North Indian,8,Continental
+11,Fast Food,21,North Indian,7,Chinese
+11,Fast Food,21,North Indian,20,Mughlai
+7,Chinese,21,North Indian,22,Other
+21,North Indian,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,23,Pizza
+21,North Indian,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,4,Biryani
+5,Burger,22,Other,0,American
+24,Raw Meats,21,North Indian,16,Italian
+25,Seafood,22,Other,5,Burger
+2,Bakery,21,North Indian,19,Mithai
+7,Chinese,21,North Indian,9,Desserts
+12,Finger Food,21,North Indian,12,Finger Food
+4,Biryani,21,North Indian,6,Cafe
+8,Continental,21,North Indian,21,North Indian
+8,Continental,21,North Indian,1,Asian
+21,North Indian,21,North Indian,16,Italian
+14,Ice Cream,11,Fast Food,27,Street Food
+19,Mithai,21,North Indian,11,Fast Food
+8,Continental,21,North Indian,8,Continental
+4,Biryani,21,North Indian,6,Cafe
+22,Other,21,North Indian,20,Mughlai
+7,Chinese,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,23,Pizza
+11,Fast Food,21,North Indian,5,Burger
+21,North Indian,21,North Indian,23,Pizza
+6,Cafe,21,North Indian,12,Finger Food
+23,Pizza,21,North Indian,19,Mithai
+21,North Indian,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,16,Italian
+22,Other,22,Other,16,Italian
+21,North Indian,21,North Indian,3,Beverages
+8,Continental,21,North Indian,8,Continental
+21,North Indian,21,North Indian,6,Cafe
+8,Continental,22,Other,6,Cafe
+2,Bakery,21,North Indian,5,Burger
+21,North Indian,21,North Indian,21,North Indian
+2,Bakery,21,North Indian,3,Beverages
+11,Fast Food,21,North Indian,19,Mithai
+7,Chinese,21,North Indian,27,Street Food
+16,Italian,8,Continental,20,Mughlai
+7,Chinese,21,North Indian,23,Pizza
+22,Other,22,Other,22,Other
+2,Bakery,21,North Indian,7,Chinese
+11,Fast Food,22,Other,9,Desserts
+21,North Indian,21,North Indian,0,American
+0,American,21,North Indian,11,Fast Food
+19,Mithai,21,North Indian,9,Desserts
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,16,Italian
+19,Mithai,21,North Indian,27,Street Food
+7,Chinese,21,North Indian,16,Italian
+11,Fast Food,21,North Indian,26,South Indian
+7,Chinese,21,North Indian,23,Pizza
+2,Bakery,21,North Indian,14,Ice Cream
+7,Chinese,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,8,Continental
+11,Fast Food,21,North Indian,19,Mithai
+12,Finger Food,21,North Indian,8,Continental
+11,Fast Food,21,North Indian,20,Mughlai
+2,Bakery,21,North Indian,3,Beverages
+21,North Indian,21,North Indian,12,Finger Food
+21,North Indian,21,North Indian,6,Cafe
+6,Cafe,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,21,North Indian
+6,Cafe,21,North Indian,6,Cafe
+7,Chinese,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,0,American
+7,Chinese,21,North Indian,4,Biryani
+22,Other,22,Other,18,Mexican
+18,Mexican,22,Other,15,Indian
+22,Other,22,Other,1,Asian
+2,Bakery,21,North Indian,4,Biryani
+9,Desserts,22,Other,1,Asian
+21,North Indian,21,North Indian,8,Continental
+21,North Indian,21,North Indian,5,Burger
+21,North Indian,21,North Indian,5,Burger
+11,Fast Food,21,North Indian,6,Cafe
+7,Chinese,21,North Indian,20,Mughlai
+6,Cafe,22,Other,22,Other
+21,North Indian,21,North Indian,23,Pizza
+21,North Indian,21,North Indian,8,Continental
+21,North Indian,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,20,Mughlai
+11,Fast Food,21,North Indian,19,Mithai
+13,Healthy Food,21,North Indian,4,Biryani
+4,Biryani,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,14,Ice Cream
+22,Other,21,North Indian,20,Mughlai
+11,Fast Food,21,North Indian,6,Cafe
+2,Bakery,21,North Indian,21,North Indian
+16,Italian,21,North Indian,0,American
+20,Mughlai,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,16,Italian
+21,North Indian,21,North Indian,21,North Indian
+14,Ice Cream,21,North Indian,2,Bakery
+23,Pizza,22,Other,0,American
+21,North Indian,21,North Indian,19,Mithai
+21,North Indian,21,North Indian,0,American
+21,North Indian,21,North Indian,12,Finger Food
+21,North Indian,21,North Indian,14,Ice Cream
+4,Biryani,21,North Indian,6,Cafe
+2,Bakery,21,North Indian,5,Burger
+6,Cafe,21,North Indian,16,Italian
+21,North Indian,21,North Indian,22,Other
+7,Chinese,21,North Indian,10,European
+22,Other,21,North Indian,6,Cafe
+0,American,22,Other,0,American
+20,Mughlai,21,North Indian,19,Mithai
+21,North Indian,21,North Indian,11,Fast Food
+19,Mithai,21,North Indian,7,Chinese
+8,Continental,21,North Indian,8,Continental
+21,North Indian,21,North Indian,3,Beverages
+21,North Indian,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,20,Mughlai
+12,Finger Food,21,North Indian,8,Continental
+21,North Indian,21,North Indian,10,European
+11,Fast Food,21,North Indian,23,Pizza
+14,Ice Cream,21,North Indian,14,Ice Cream
+20,Mughlai,21,North Indian,20,Mughlai
+0,American,22,Other,0,American
+0,American,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,3,Beverages
+9,Desserts,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,4,Biryani
+0,American,21,North Indian,0,American
+14,Ice Cream,21,North Indian,2,Bakery
+6,Cafe,21,North Indian,25,Seafood
+22,Other,21,North Indian,8,Continental
+2,Bakery,21,North Indian,19,Mithai
+22,Other,21,North Indian,1,Asian
+22,Other,22,Other,0,American
+21,North Indian,21,North Indian,8,Continental
+7,Chinese,27,Street Food,27,Street Food
+2,Bakery,21,North Indian,26,South Indian
+2,Bakery,21,North Indian,14,Ice Cream
+11,Fast Food,21,North Indian,14,Ice Cream
+21,North Indian,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,11,Fast Food
+7,Chinese,21,North Indian,20,Mughlai
+10,European,21,North Indian,1,Asian
+7,Chinese,21,North Indian,24,Raw Meats
+3,Beverages,21,North Indian,24,Raw Meats
+26,South Indian,21,North Indian,2,Bakery
+5,Burger,22,Other,17,Japanese
+21,North Indian,21,North Indian,21,North Indian
+22,Other,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,26,South Indian
+26,South Indian,21,North Indian,19,Mithai
+11,Fast Food,21,North Indian,3,Beverages
+2,Bakery,21,North Indian,20,Mughlai
+2,Bakery,21,North Indian,9,Desserts
+6,Cafe,21,North Indian,2,Bakery
+23,Pizza,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,20,Mughlai
+22,Other,22,Other,9,Desserts
+25,Seafood,22,Other,0,American
+11,Fast Food,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,14,Ice Cream
+6,Cafe,21,North Indian,6,Cafe
+22,Other,22,Other,15,Indian
+21,North Indian,21,North Indian,6,Cafe
+11,Fast Food,21,North Indian,24,Raw Meats
+11,Fast Food,21,North Indian,26,South Indian
+11,Fast Food,21,North Indian,9,Desserts
+6,Cafe,21,North Indian,23,Pizza
+19,Mithai,21,North Indian,7,Chinese
+11,Fast Food,21,North Indian,11,Fast Food
+6,Cafe,21,North Indian,23,Pizza
+11,Fast Food,21,North Indian,24,Raw Meats
+19,Mithai,21,North Indian,19,Mithai
+7,Chinese,21,North Indian,7,Chinese
+27,Street Food,27,Street Food,27,Street Food
+26,South Indian,21,North Indian,2,Bakery
+7,Chinese,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,19,Mithai
+21,North Indian,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,5,Burger
+7,Chinese,21,North Indian,8,Continental
+21,North Indian,21,North Indian,6,Cafe
+20,Mughlai,21,North Indian,2,Bakery
+7,Chinese,21,North Indian,24,Raw Meats
+8,Continental,21,North Indian,22,Other
+0,American,21,North Indian,8,Continental
+20,Mughlai,21,North Indian,8,Continental
+22,Other,21,North Indian,21,North Indian
+23,Pizza,21,North Indian,6,Cafe
+7,Chinese,21,North Indian,11,Fast Food
+11,Fast Food,21,North Indian,3,Beverages
+21,North Indian,21,North Indian,20,Mughlai
+22,Other,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,27,Street Food
+6,Cafe,22,Other,6,Cafe
+21,North Indian,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,14,Ice Cream
+21,North Indian,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,3,Beverages
+21,North Indian,21,North Indian,22,Other
+22,Other,21,North Indian,20,Mughlai
+8,Continental,21,North Indian,8,Continental
+21,North Indian,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,16,Italian
+16,Italian,21,North Indian,5,Burger
+5,Burger,21,North Indian,13,Healthy Food
+21,North Indian,21,North Indian,12,Finger Food
+21,North Indian,21,North Indian,7,Chinese
+27,Street Food,19,Mithai,9,Desserts
+3,Beverages,21,North Indian,3,Beverages
+4,Biryani,21,North Indian,0,American
+6,Cafe,22,Other,6,Cafe
+11,Fast Food,21,North Indian,8,Continental
+11,Fast Food,21,North Indian,7,Chinese
+6,Cafe,21,North Indian,23,Pizza
+21,North Indian,21,North Indian,1,Asian
+7,Chinese,21,North Indian,4,Biryani
+11,Fast Food,21,North Indian,27,Street Food
+27,Street Food,21,North Indian,19,Mithai
+6,Cafe,21,North Indian,6,Cafe
+2,Bakery,21,North Indian,26,South Indian
+13,Healthy Food,21,North Indian,2,Bakery
+27,Street Food,21,North Indian,19,Mithai
+20,Mughlai,21,North Indian,2,Bakery
+9,Desserts,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,20,Mughlai
+11,Fast Food,21,North Indian,3,Beverages
+21,North Indian,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,0,American
+22,Other,22,Other,0,American
+20,Mughlai,21,North Indian,14,Ice Cream
+0,American,22,Other,9,Desserts
+11,Fast Food,21,North Indian,11,Fast Food
+2,Bakery,21,North Indian,14,Ice Cream
+0,American,22,Other,1,Asian
+6,Cafe,21,North Indian,16,Italian
+16,Italian,21,North Indian,16,Italian
+18,Mexican,9,Desserts,22,Other
+2,Bakery,21,North Indian,2,Bakery
+20,Mughlai,21,North Indian,20,Mughlai
+11,Fast Food,21,North Indian,2,Bakery
+2,Bakery,21,North Indian,20,Mughlai
+16,Italian,21,North Indian,16,Italian
+5,Burger,21,North Indian,5,Burger
+19,Mithai,21,North Indian,19,Mithai
+6,Cafe,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,16,Italian
+7,Chinese,21,North Indian,4,Biryani
+16,Italian,1,Asian,1,Asian
+19,Mithai,21,North Indian,19,Mithai
+19,Mithai,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,16,Italian
+19,Mithai,21,North Indian,27,Street Food
+19,Mithai,21,North Indian,9,Desserts
+21,North Indian,21,North Indian,20,Mughlai
+6,Cafe,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,3,Beverages
+3,Beverages,21,North Indian,2,Bakery
+20,Mughlai,21,North Indian,3,Beverages
+7,Chinese,21,North Indian,21,North Indian
+20,Mughlai,21,North Indian,17,Japanese
+21,North Indian,21,North Indian,22,Other
+21,North Indian,21,North Indian,4,Biryani
+2,Bakery,21,North Indian,10,European
+6,Cafe,21,North Indian,8,Continental
+21,North Indian,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,23,Pizza
+8,Continental,21,North Indian,0,American
+11,Fast Food,21,North Indian,26,South Indian
+11,Fast Food,21,North Indian,3,Beverages
+13,Healthy Food,21,North Indian,5,Burger
+22,Other,22,Other,9,Desserts
+11,Fast Food,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,6,Cafe
+11,Fast Food,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,0,American
+11,Fast Food,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,9,Desserts
+21,North Indian,21,North Indian,24,Raw Meats
+11,Fast Food,27,Street Food,2,Bakery
+0,American,22,Other,18,Mexican
+19,Mithai,21,North Indian,11,Fast Food
+26,South Indian,21,North Indian,26,South Indian
+18,Mexican,21,North Indian,7,Chinese
+6,Cafe,21,North Indian,6,Cafe
+6,Cafe,21,North Indian,22,Other
+2,Bakery,21,North Indian,3,Beverages
+7,Chinese,21,North Indian,14,Ice Cream
+7,Chinese,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,19,Mithai
+19,Mithai,21,North Indian,21,North Indian
+22,Other,22,Other,18,Mexican
+27,Street Food,21,North Indian,24,Raw Meats
+11,Fast Food,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,21,North Indian
+6,Cafe,21,North Indian,26,South Indian
+19,Mithai,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,20,Mughlai
+26,South Indian,21,North Indian,2,Bakery
+27,Street Food,21,North Indian,19,Mithai
+13,Healthy Food,21,North Indian,21,North Indian
+1,Asian,21,North Indian,12,Finger Food
+16,Italian,22,Other,0,American
+11,Fast Food,21,North Indian,14,Ice Cream
+2,Bakery,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,14,Ice Cream
+26,South Indian,21,North Indian,4,Biryani
+11,Fast Food,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,6,Cafe
+16,Italian,21,North Indian,16,Italian
+6,Cafe,21,North Indian,23,Pizza
+21,North Indian,21,North Indian,24,Raw Meats
+23,Pizza,21,North Indian,23,Pizza
+26,South Indian,21,North Indian,9,Desserts
+6,Cafe,21,North Indian,12,Finger Food
+19,Mithai,21,North Indian,19,Mithai
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,5,Burger
+5,Burger,22,Other,0,American
+21,North Indian,21,North Indian,11,Fast Food
+1,Asian,21,North Indian,8,Continental
+2,Bakery,21,North Indian,18,Mexican
+9,Desserts,21,North Indian,2,Bakery
+7,Chinese,21,North Indian,24,Raw Meats
+11,Fast Food,21,North Indian,3,Beverages
+0,American,22,Other,23,Pizza
+21,North Indian,21,North Indian,7,Chinese
+9,Desserts,21,North Indian,3,Beverages
+21,North Indian,21,North Indian,23,Pizza
+22,Other,22,Other,22,Other
+7,Chinese,21,North Indian,24,Raw Meats
+15,Indian,22,Other,22,Other
+22,Other,11,Fast Food,14,Ice Cream
+21,North Indian,21,North Indian,5,Burger
+21,North Indian,21,North Indian,20,Mughlai
+11,Fast Food,21,North Indian,2,Bakery
+7,Chinese,21,North Indian,14,Ice Cream
+21,North Indian,21,North Indian,23,Pizza
+12,Finger Food,21,North Indian,8,Continental
+6,Cafe,21,North Indian,6,Cafe
+23,Pizza,21,North Indian,7,Chinese
+20,Mughlai,21,North Indian,23,Pizza
+21,North Indian,21,North Indian,12,Finger Food
+0,American,22,Other,10,European
+21,North Indian,21,North Indian,9,Desserts
+22,Other,21,North Indian,16,Italian
+12,Finger Food,21,North Indian,12,Finger Food
+7,Chinese,21,North Indian,14,Ice Cream
+6,Cafe,21,North Indian,16,Italian
+20,Mughlai,21,North Indian,21,North Indian
+1,Asian,21,North Indian,8,Continental
+11,Fast Food,21,North Indian,23,Pizza
+17,Japanese,22,Other,17,Japanese
+11,Fast Food,21,North Indian,4,Biryani
+23,Pizza,21,North Indian,23,Pizza
+18,Mexican,22,Other,5,Burger
+26,South Indian,21,North Indian,7,Chinese
+11,Fast Food,21,North Indian,5,Burger
+21,North Indian,21,North Indian,27,Street Food
+21,North Indian,21,North Indian,21,North Indian
+7,Chinese,21,North Indian,14,Ice Cream
+2,Bakery,21,North Indian,7,Chinese
+6,Cafe,21,North Indian,8,Continental
+10,European,21,North Indian,8,Continental
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,8,Continental
+27,Street Food,27,Street Food,27,Street Food
+6,Cafe,22,Other,22,Other
+22,Other,22,Other,5,Burger
+4,Biryani,21,North Indian,6,Cafe
+23,Pizza,21,North Indian,6,Cafe
+20,Mughlai,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,5,Burger
+2,Bakery,21,North Indian,14,Ice Cream
+22,Other,21,North Indian,1,Asian
+11,Fast Food,21,North Indian,6,Cafe
+11,Fast Food,19,Mithai,27,Street Food
+0,American,21,North Indian,0,American
+11,Fast Food,21,North Indian,6,Cafe
+0,American,21,North Indian,0,American
+21,North Indian,21,North Indian,20,Mughlai
+20,Mughlai,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,6,Cafe
+15,Indian,15,Indian,22,Other
+23,Pizza,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,18,Mexican
+7,Chinese,21,North Indian,7,Chinese
+19,Mithai,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,6,Cafe
+22,Other,21,North Indian,0,American
+2,Bakery,21,North Indian,3,Beverages
+8,Continental,21,North Indian,8,Continental
+0,American,21,North Indian,2,Bakery
+27,Street Food,21,North Indian,5,Burger
+7,Chinese,21,North Indian,3,Beverages
+21,North Indian,21,North Indian,7,Chinese
+8,Continental,21,North Indian,17,Japanese
+11,Fast Food,21,North Indian,13,Healthy Food
+18,Mexican,22,Other,22,Other
+24,Raw Meats,21,North Indian,3,Beverages
+21,North Indian,21,North Indian,8,Continental
+11,Fast Food,21,North Indian,9,Desserts
+6,Cafe,21,North Indian,6,Cafe
+8,Continental,21,North Indian,8,Continental
+21,North Indian,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,27,Street Food
+3,Beverages,21,North Indian,7,Chinese
+6,Cafe,21,North Indian,6,Cafe
+0,American,22,Other,1,Asian
+12,Finger Food,21,North Indian,12,Finger Food
+7,Chinese,21,North Indian,20,Mughlai
+26,South Indian,21,North Indian,26,South Indian
+22,Other,21,North Indian,1,Asian
+5,Burger,21,North Indian,5,Burger
+0,American,21,North Indian,23,Pizza
+21,North Indian,21,North Indian,7,Chinese
+26,South Indian,21,North Indian,11,Fast Food
+11,Fast Food,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,20,Mughlai
+27,Street Food,27,Street Food,11,Fast Food
+21,North Indian,21,North Indian,26,South Indian
+14,Ice Cream,21,North Indian,5,Burger
+21,North Indian,21,North Indian,12,Finger Food
+8,Continental,21,North Indian,10,European
+26,South Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,4,Biryani
+7,Chinese,21,North Indian,11,Fast Food
+11,Fast Food,21,North Indian,20,Mughlai
+6,Cafe,21,North Indian,9,Desserts
+7,Chinese,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,8,Continental
+9,Desserts,21,North Indian,26,South Indian
+8,Continental,21,North Indian,13,Healthy Food
+11,Fast Food,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,2,Bakery
+7,Chinese,21,North Indian,21,North Indian
+2,Bakery,21,North Indian,4,Biryani
+2,Bakery,21,North Indian,18,Mexican
+21,North Indian,21,North Indian,22,Other
+7,Chinese,21,North Indian,22,Other
+12,Finger Food,21,North Indian,16,Italian
+22,Other,22,Other,0,American
+7,Chinese,21,North Indian,20,Mughlai
+16,Italian,22,Other,18,Mexican
+21,North Indian,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,21,North Indian
+15,Indian,15,Indian,8,Continental
+19,Mithai,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,2,Bakery
+7,Chinese,21,North Indian,27,Street Food
+21,North Indian,21,North Indian,12,Finger Food
+11,Fast Food,27,Street Food,27,Street Food
+27,Street Food,21,North Indian,3,Beverages
+26,South Indian,21,North Indian,5,Burger
+6,Cafe,21,North Indian,10,European
+7,Chinese,22,Other,9,Desserts
+11,Fast Food,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,7,Chinese
+16,Italian,21,North Indian,0,American
+20,Mughlai,21,North Indian,20,Mughlai
+23,Pizza,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,8,Continental
+21,North Indian,21,North Indian,5,Burger
+21,North Indian,21,North Indian,7,Chinese
+7,Chinese,21,North Indian,26,South Indian
+7,Chinese,21,North Indian,4,Biryani
+9,Desserts,21,North Indian,14,Ice Cream
+6,Cafe,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,14,Ice Cream
+11,Fast Food,21,North Indian,0,American
+17,Japanese,21,North Indian,8,Continental
+21,North Indian,21,North Indian,6,Cafe
+22,Other,22,Other,22,Other
+21,North Indian,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,7,Chinese
+11,Fast Food,21,North Indian,11,Fast Food
+7,Chinese,21,North Indian,16,Italian
+16,Italian,21,North Indian,16,Italian
+21,North Indian,21,North Indian,22,Other
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,16,Italian
+2,Bakery,27,Street Food,27,Street Food
+23,Pizza,21,North Indian,5,Burger
+2,Bakery,21,North Indian,12,Finger Food
+21,North Indian,21,North Indian,2,Bakery
+5,Burger,22,Other,5,Burger
+26,South Indian,21,North Indian,14,Ice Cream
+21,North Indian,21,North Indian,4,Biryani
+2,Bakery,21,North Indian,20,Mughlai
+6,Cafe,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,20,Mughlai
+19,Mithai,19,Mithai,19,Mithai
+22,Other,7,Chinese,17,Japanese
+7,Chinese,21,North Indian,24,Raw Meats
+2,Bakery,11,Fast Food,7,Chinese
+21,North Indian,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,9,Desserts
+2,Bakery,21,North Indian,25,Seafood
+21,North Indian,21,North Indian,6,Cafe
+20,Mughlai,21,North Indian,18,Mexican
+14,Ice Cream,21,North Indian,24,Raw Meats
+0,American,22,Other,18,Mexican
+10,European,7,Chinese,12,Finger Food
+15,Indian,22,Other,22,Other
+0,American,21,North Indian,12,Finger Food
+21,North Indian,21,North Indian,7,Chinese
+7,Chinese,21,North Indian,20,Mughlai
+4,Biryani,21,North Indian,19,Mithai
+1,Asian,21,North Indian,8,Continental
+0,American,21,North Indian,0,American
+6,Cafe,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,16,Italian
+21,North Indian,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,14,Ice Cream
+27,Street Food,22,Other,8,Continental
+21,North Indian,21,North Indian,21,North Indian
+2,Bakery,11,Fast Food,2,Bakery
+21,North Indian,21,North Indian,5,Burger
+2,Bakery,27,Street Food,27,Street Food
+23,Pizza,21,North Indian,23,Pizza
+23,Pizza,21,North Indian,5,Burger
+22,Other,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,26,South Indian
+10,European,21,North Indian,16,Italian
+0,American,21,North Indian,7,Chinese
+9,Desserts,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,19,Mithai
+21,North Indian,21,North Indian,20,Mughlai
+4,Biryani,21,North Indian,27,Street Food
+15,Indian,22,Other,15,Indian
+27,Street Food,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,9,Desserts
+21,North Indian,21,North Indian,24,Raw Meats
+20,Mughlai,21,North Indian,16,Italian
+12,Finger Food,21,North Indian,16,Italian
+21,North Indian,21,North Indian,1,Asian
+2,Bakery,21,North Indian,11,Fast Food
+27,Street Food,21,North Indian,19,Mithai
+21,North Indian,21,North Indian,12,Finger Food
+2,Bakery,21,North Indian,23,Pizza
+22,Other,22,Other,0,American
+21,North Indian,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,20,Mughlai
+7,Chinese,21,North Indian,6,Cafe
+2,Bakery,21,North Indian,27,Street Food
+7,Chinese,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,4,Biryani
+2,Bakery,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,27,Street Food
+14,Ice Cream,21,North Indian,3,Beverages
+7,Chinese,21,North Indian,11,Fast Food
+2,Bakery,21,North Indian,2,Bakery
+2,Bakery,11,Fast Food,27,Street Food
+21,North Indian,21,North Indian,27,Street Food
+21,North Indian,21,North Indian,16,Italian
+24,Raw Meats,21,North Indian,20,Mughlai
+0,American,21,North Indian,8,Continental
+2,Bakery,21,North Indian,14,Ice Cream
+21,North Indian,21,North Indian,14,Ice Cream
+27,Street Food,21,North Indian,20,Mughlai
+16,Italian,21,North Indian,6,Cafe
+20,Mughlai,21,North Indian,8,Continental
+6,Cafe,21,North Indian,5,Burger
+7,Chinese,21,North Indian,21,North Indian
+21,North Indian,21,North Indian,21,North Indian
+7,Chinese,21,North Indian,21,North Indian
+14,Ice Cream,21,North Indian,14,Ice Cream
+6,Cafe,21,North Indian,22,Other
+21,North Indian,21,North Indian,4,Biryani
+7,Chinese,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,27,Street Food
+22,Other,22,Other,22,Other
+12,Finger Food,21,North Indian,8,Continental
+21,North Indian,21,North Indian,5,Burger
+6,Cafe,21,North Indian,6,Cafe
+7,Chinese,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,22,Other
+8,Continental,21,North Indian,8,Continental
+7,Chinese,21,North Indian,4,Biryani
+11,Fast Food,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,7,Chinese
+22,Other,22,Other,22,Other
+21,North Indian,21,North Indian,6,Cafe
+10,European,21,North Indian,1,Asian
+3,Beverages,21,North Indian,3,Beverages
+21,North Indian,21,North Indian,2,Bakery
+5,Burger,0,American,18,Mexican
+2,Bakery,21,North Indian,19,Mithai
+22,Other,21,North Indian,10,European
+24,Raw Meats,21,North Indian,20,Mughlai
+2,Bakery,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,20,Mughlai
+24,Raw Meats,11,Fast Food,27,Street Food
+21,North Indian,21,North Indian,27,Street Food
+21,North Indian,21,North Indian,17,Japanese
+6,Cafe,21,North Indian,6,Cafe
+23,Pizza,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,7,Chinese
+20,Mughlai,21,North Indian,27,Street Food
+27,Street Food,27,Street Food,19,Mithai
+21,North Indian,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,26,South Indian
+21,North Indian,21,North Indian,16,Italian
+0,American,22,Other,0,American
+6,Cafe,21,North Indian,6,Cafe
+11,Fast Food,21,North Indian,14,Ice Cream
+21,North Indian,21,North Indian,12,Finger Food
+8,Continental,21,North Indian,17,Japanese
+19,Mithai,21,North Indian,20,Mughlai
+11,Fast Food,21,North Indian,22,Other
+1,Asian,21,North Indian,22,Other
+22,Other,21,North Indian,5,Burger
+21,North Indian,21,North Indian,6,Cafe
+24,Raw Meats,21,North Indian,27,Street Food
+21,North Indian,21,North Indian,20,Mughlai
+21,North Indian,21,North Indian,5,Burger
+19,Mithai,21,North Indian,24,Raw Meats
+24,Raw Meats,21,North Indian,11,Fast Food
+2,Bakery,21,North Indian,2,Bakery
+18,Mexican,21,North Indian,23,Pizza
+21,North Indian,21,North Indian,26,South Indian
+23,Pizza,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,21,North Indian
+22,Other,21,North Indian,2,Bakery
+21,North Indian,21,North Indian,3,Beverages
+21,North Indian,21,North Indian,27,Street Food
+26,South Indian,21,North Indian,5,Burger
+21,North Indian,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,22,Other
+18,Mexican,22,Other,18,Mexican
+21,North Indian,21,North Indian,6,Cafe
+6,Cafe,21,North Indian,13,Healthy Food
+21,North Indian,21,North Indian,12,Finger Food
+21,North Indian,21,North Indian,0,American
+2,Bakery,21,North Indian,4,Biryani
+19,Mithai,21,North Indian,4,Biryani
+21,North Indian,21,North Indian,20,Mughlai
+6,Cafe,21,North Indian,16,Italian
+21,North Indian,21,North Indian,23,Pizza
+8,Continental,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,14,Ice Cream
+21,North Indian,21,North Indian,11,Fast Food
+21,North Indian,21,North Indian,16,Italian
+7,Chinese,21,North Indian,24,Raw Meats
+11,Fast Food,11,Fast Food,27,Street Food
+7,Chinese,21,North Indian,4,Biryani
+7,Chinese,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,0,American
+7,Chinese,21,North Indian,27,Street Food
+6,Cafe,21,North Indian,2,Bakery
+22,Other,22,Other,22,Other
+6,Cafe,21,North Indian,7,Chinese
+13,Healthy Food,21,North Indian,6,Cafe
+21,North Indian,21,North Indian,13,Healthy Food
+22,Other,22,Other,1,Asian
+21,North Indian,21,North Indian,11,Fast Food
+9,Desserts,21,North Indian,12,Finger Food
+14,Ice Cream,21,North Indian,14,Ice Cream
+1,Asian,21,North Indian,7,Chinese
+21,North Indian,21,North Indian,21,North Indian

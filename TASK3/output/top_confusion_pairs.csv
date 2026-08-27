@@ -1,0 +1,13 @@
+true_class,predicted_as,count
+North Indian,Cafe,48
+Chinese,North Indian,13
+Street Food,Mithai,13
+Fast Food,Bakery,12
+Other,Italian,12
+Bakery,Mithai,10
+Mithai,Street Food,9
+Cafe,Other,9
+Italian,American,5
+American,Other,5
+South Indian,North Indian,4
+Continental,North Indian,4
